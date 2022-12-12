@@ -1,0 +1,8 @@
+C:\Users\Rudolf\source\repos\ConsoleAppSnake\ConsoleAppSnake\bin\Debug\ConsoleAppSnake.exe.config
+C:\Users\Rudolf\source\repos\ConsoleAppSnake\ConsoleAppSnake\bin\Debug\ConsoleAppSnake.exe
+C:\Users\Rudolf\source\repos\ConsoleAppSnake\ConsoleAppSnake\bin\Debug\ConsoleAppSnake.pdb
+C:\Users\Rudolf\source\repos\ConsoleAppSnake\ConsoleAppSnake\obj\Debug\ConsoleAppSnake.csproj.AssemblyReference.cache
+C:\Users\Rudolf\source\repos\ConsoleAppSnake\ConsoleAppSnake\obj\Debug\ConsoleAppSnake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rudolf\source\repos\ConsoleAppSnake\ConsoleAppSnake\obj\Debug\ConsoleAppSnake.csproj.CoreCompileInputs.cache
+C:\Users\Rudolf\source\repos\ConsoleAppSnake\ConsoleAppSnake\obj\Debug\ConsoleAppSnake.exe
+C:\Users\Rudolf\source\repos\ConsoleAppSnake\ConsoleAppSnake\obj\Debug\ConsoleAppSnake.pdb
